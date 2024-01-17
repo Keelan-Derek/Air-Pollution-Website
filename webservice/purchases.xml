@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Purchases>
+  <purchase>
+    <purchase_id>1</purchase_id>
+    <item_id>1</item_id>
+    <quantity>2</quantity>
+    <totalPrice>50</totalPrice>
+    <purchasedAt>2020-02-02 16:59:53</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>2</purchase_id>
+    <item_id>3</item_id>
+    <quantity>1</quantity>
+    <totalPrice>50</totalPrice>
+    <purchasedAt>2020-02-02 16:59:53</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>3</purchase_id>
+    <item_id>3</item_id>
+    <quantity>2</quantity>
+    <totalPrice>100</totalPrice>
+    <purchasedAt>2020-02-02 16:59:53</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>4</purchase_id>
+    <item_id>2</item_id>
+    <quantity>2</quantity>
+    <totalPrice>70</totalPrice>
+    <purchasedAt>2020-02-02 16:59:53</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>5</purchase_id>
+    <item_id>1</item_id>
+    <quantity>3</quantity>
+    <totalPrice>75</totalPrice>
+    <purchasedAt>2020-02-02 16:59:53</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>6</purchase_id>
+    <item_id>1</item_id>
+    <quantity>5</quantity>
+    <totalPrice>125</totalPrice>
+    <purchasedAt>2020-02-02 17:14:47</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>7</purchase_id>
+    <item_id>2</item_id>
+    <quantity>1</quantity>
+    <totalPrice>35</totalPrice>
+    <purchasedAt>2020-02-02 17:14:47</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>16</purchase_id>
+    <item_id>1</item_id>
+    <quantity>1</quantity>
+    <totalPrice>25</totalPrice>
+    <purchasedAt>2020-02-14 08:46:36</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>17</purchase_id>
+    <item_id>1</item_id>
+    <quantity>3</quantity>
+    <totalPrice>75</totalPrice>
+    <purchasedAt>2020-02-14 08:47:27</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>18</purchase_id>
+    <item_id>1</item_id>
+    <quantity>3</quantity>
+    <totalPrice>75</totalPrice>
+    <purchasedAt>2020-02-14 08:48:45</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>19</purchase_id>
+    <item_id>1</item_id>
+    <quantity>4</quantity>
+    <totalPrice>100</totalPrice>
+    <purchasedAt>2020-02-14 08:49:13</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>22</purchase_id>
+    <item_id>1</item_id>
+    <quantity>7</quantity>
+    <totalPrice>175</totalPrice>
+    <purchasedAt>2020-02-14 08:55:45</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>41</purchase_id>
+    <item_id>2</item_id>
+    <quantity>1</quantity>
+    <totalPrice>35</totalPrice>
+    <purchasedAt>2020-02-14 09:18:07</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>42</purchase_id>
+    <item_id>3</item_id>
+    <quantity>5</quantity>
+    <totalPrice>250</totalPrice>
+    <purchasedAt>2020-02-14 09:18:55</purchasedAt>
+  </purchase>
+  <purchase>
+    <purchase_id>43</purchase_id>
+    <item_id>1</item_id>
+    <quantity>3</quantity>
+    <totalPrice>75</totalPrice>
+    <purchasedAt>2020-02-14 09:20:12</purchasedAt>
+  </purchase>
+</Purchases>
